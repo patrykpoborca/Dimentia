@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d040ac6961bb8d849b1f4d32b2647a60
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Digit1: {fileID: 2800000, guid: f33ed224128724d4c8b84c38d0dac871, type: 3}
+  - Digit2: {fileID: 2800000, guid: 49dd157d3b028524e941f3af2fcb00cd, type: 3}
+  - Digit3: {fileID: 2800000, guid: 551c0ad97b9300a45afbfa1139714f7e, type: 3}
+  - Digit4: {fileID: 2800000, guid: c79260c62708e04479db6d0e0b2006ff, type: 3}
+  - Digit5: {fileID: 2800000, guid: 8b40a2cf61834bc47b58b95c06bcf391, type: 3}
+  - Digit6: {fileID: 2800000, guid: 538fd4d73502d5c4d88d5ddfd838d3ac, type: 3}
+  - Digit7: {fileID: 2800000, guid: 58d6f127878077a4b953b1c979c9bfe7, type: 3}
+  - Digit8: {fileID: 2800000, guid: d868955d4324b014da4126d19096febb, type: 3}
+  - Digit9: {fileID: 2800000, guid: c74b91c0d1c7d5d4b88c5451ccaeef0d, type: 3}
+  - Digit0: {fileID: 2800000, guid: 289ce0704a0e5f148811580f64af08bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
